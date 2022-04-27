@@ -7,7 +7,7 @@ public class GitSample {
 
 	}
 	private void companyId() {
-		System.out.println("Company Id is 2410");
+		System.out.println("Company ");
 		
 	}
 	private void companyAddress() {
